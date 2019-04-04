@@ -1,0 +1,9 @@
+Average beat-to-beat variances:
+  Queue A: 0.00026042230771631343 s
+  Queue B: 0.0001119548461474551 s
+  Queue C: 0.0001533412692494424 s
+
+Average queue-to-queue variances:
+  Queues A and B: 0.0005125774444347068 s
+  Queues B and C: 0.0005357471111101067 s
+  Queues A and C: 0.000468846037043241 s

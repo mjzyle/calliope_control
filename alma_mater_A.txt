@@ -1,0 +1,17 @@
+CWRU Alma Mater: "Shine On Forever"
+Soprano (main melody)
+
+
+"Shine   on,    for   ev    er   Case   West   ern    Re   serve.           Loy    al    and    true       are    we."
+*F1     *D2 *% *D2   *D2   *C2   *D2    *C2    *A2#  *G1   *A2# *A2# *%    *A2#   *A2#   *A2#   *A2# *F1   *D2    *C2 *C2 *C2 *% *% 
+
+"Your   brave  sons  and   daugh   ters,   your   know   ledge   we    use         to      make      our   mark on his   to    ry."
+*F1     *D2    *D2   *D2   *D2     *C2     *D2    *C2    *A2#    *G1   *A2# *%    *A2#    *G1 *G1   *A2#  *A2     *C2   *A2   *A2# *A2# *A2# *A2# *% 
+
+"Our  school    days     we'll      cher    ish     for    ev         er     more.    A     life   time   of   friends   from   the   start."
+*D2   *D2       *C2      *A2        *D2     *C2     *A2    *A2# *A2#  *C2    *D2 *%   *D2  *D2     *C2    *A2  *D2       *C2    *A2   *C2 *C2 *C2 *% *% 
+
+"Shine   on,    for   ev    er   Case   West   ern    Re   serve.         You'll  be   for   ever   in   our   hearts."
+*F1     *D2 *% *D2   *D2   *C2   *D2    *C2    *A2#  *G1   *A2# *A2# *%   *G1    *B2   *G1   *A2    *C2  *A2   *B2 *B2 *B2 *B2 *B2 *B2 
+
+*~ 
